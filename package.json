@@ -5,7 +5,7 @@
   "author": "Shin-Taro",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
     "lint": "eslint \"./src/**/*.{ts,tsx}\" --max-warnings 0 --cache",
