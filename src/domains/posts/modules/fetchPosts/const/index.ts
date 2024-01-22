@@ -1,0 +1,1 @@
+export { DummyPosts } from "./DummyPosts"
